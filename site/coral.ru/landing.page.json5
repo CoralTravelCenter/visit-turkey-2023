@@ -1,0 +1,12 @@
+{
+    contents: [
+        '/site/coral.ru/markup/main.pug',
+        '/site/coral.ru/markup/UAI.html',
+        '/site/coral.ru/markup/first-line.html',
+        '/site/coral.ru/markup/hot.html',
+        '/site/coral.ru/markup/5stars.html',
+        '/site/coral.ru/markup/4stars.html',
+        '/site/coral.ru/markup/3stars.html',
+        '/site/coral.ru/markup/message-us.html'
+    ]
+}
